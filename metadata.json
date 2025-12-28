@@ -1,0 +1,5 @@
+{
+  "name": "Context Splitter AI",
+  "description": "一个强大的工具，可以将大型文本或CSV文件分割成更小的块，针对LLM上下文窗口（128k, 400k等）进行了优化。",
+  "requestFramePermissions": []
+}
